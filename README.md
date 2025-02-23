@@ -1,6 +1,6 @@
-# List of available games in [classroom 15x](https://classroom15.net)
+# List of available games in [classroom 15x](https://classroom15x.net)
 
- Play [among us](https://classroom15x.net/play/among-us/) on classroom 15.<br>
+ Play [among us](https://classroom15x.net/play/among-us/) on [classroom 15x](https://classroom15x.net)<br>
  Play [Big Tower Tiny Square](https://classroom15x.net/play/big-tower-tiny-square/) on classroom 15.<br>
  Play [OvO](https://classroom15x.net/play/ovo/) on classroom 15.<br>
  Play [Retro Bowl](https://classroom15x.net/play/retro-bowl/) on classroom 15.<br>
